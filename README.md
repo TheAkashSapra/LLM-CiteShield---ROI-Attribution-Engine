@@ -1,6 +1,6 @@
 # LLM CiteShield & ROI Attribution Engine 🛡️
 
-[Demo vider:](https://drive.google.com/file/d/1pyhXA8L2PQZZ8cnUGKCvAtZ2Tu-7AKzx/view?usp=sharing)
+[Demo video:](https://drive.google.com/file/d/1pyhXA8L2PQZZ8cnUGKCvAtZ2Tu-7AKzx/view?usp=sharing)
 
 LLM CiteShield is a cutting-edge platform designed to protect your brand's integrity against AI hallucinations and provide total visibility into your **AI Search ROI**.
 
